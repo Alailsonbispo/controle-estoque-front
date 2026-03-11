@@ -2,6 +2,8 @@
 
 Sistema Fullstack desenvolvido para controle de patrimônio e estoque, integrando um backend robusto em Java com um frontend moderno e performático.
 
+**> 💡 **Nota:** Este é o repositório do **[Frontend]**. Para ver o ecossistema completo, acesse o repositório do **[Outro Lado]** aqui: [https://github.com/Alailsonbispo/controle-estoque].**
+
 ## 🚀 Tecnologias Utilizadas
 - **Frontend:** Next.js 16, Tailwind CSS, Axios.
 - **Backend:** Java 17, Spring Boot, Spring Data JPA.
