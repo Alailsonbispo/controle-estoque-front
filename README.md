@@ -1,4 +1,4 @@
-# 📦 ESTOQUE-PRO | Dashboard & Gestão
+# 📦 ESTOQUE-PRO | Dashboard & Gestão ( Projeto Criado com ajuda de IA, visando conhecimento de Java, Spring, Banco de dados)
 
 Sistema Fullstack desenvolvido para controle de patrimônio e estoque, integrando um backend robusto em Java com um frontend moderno e performático.
 
